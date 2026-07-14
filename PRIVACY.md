@@ -28,6 +28,12 @@ Apple, Google, and RevenueCat process information under their own privacy terms:
 
 Alarm data remains on the device until it is deleted in the app, all local data is reset from Settings, or the app is uninstalled. Purchase records may be retained by Apple or Google and RevenueCat as required to provide purchase history, restore access, prevent fraud, meet legal obligations, and resolve support requests.
 
+### How to request deletion
+
+1. To delete alarms, scan-mission hashes, history, statistics, and preferences stored on the device immediately, open **WakeProof > Settings > Reset all data**. Uninstalling WakeProof also removes its ordinary local app data.
+2. To request deletion of purchase- and entitlement-related customer data controlled by WakeProof, email **david.voskanyan1213@gmail.com** with the subject **WakeProof data deletion request**. Include the platform used (Apple App Store or Google Play) and, if available, the store transaction or order identifier from the purchase receipt so the anonymous purchase record can be located. Do not send payment-card details.
+3. We will acknowledge the request within 7 days and ordinarily complete a verified request within 30 days. Purchase, tax, fraud-prevention, dispute, and compliance records that Apple, Google, RevenueCat, or WakeProof must retain may be kept for the period required by law or store rules. Data that is not subject to such retention will be deleted or de-identified.
+
 ## Security
 
 WakeProof uses device storage controls and stores a device-only mission hashing secret in Keychain- or Android Keystore-backed secure storage. Store and RevenueCat communications use encrypted network connections. No security measure is absolute; keep the device and operating system updated.
