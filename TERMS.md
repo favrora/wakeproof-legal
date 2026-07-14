@@ -1,6 +1,6 @@
 # WakeProof Terms of Use
 
-Effective date: July 12, 2026
+Effective date: July 14, 2026
 
 These terms are an agreement between the user and **David Voskanyan** ("WakeProof", "we", "us"). Contact: **david.voskanyan1213@gmail.com**.
 
@@ -16,13 +16,13 @@ The user must use the app lawfully, avoid interfering with its operation, and av
 
 ## WakeProof Pro purchases
 
-WakeProof Pro may be offered as a one-month auto-renewable subscription, a one-year auto-renewable subscription, and a lifetime non-consumable in-app purchase. The App Store displays the current price and any applicable introductory offer before confirmation.
+WakeProof Pro may be offered as a one-month auto-renewable subscription, a one-year auto-renewable subscription, and a lifetime non-consumable or one-time in-app purchase. Apple App Store or Google Play displays the current price and any applicable introductory offer before confirmation.
 
-Payment is charged to the user's Apple Account when the purchase is confirmed. Monthly and annual subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period. The Apple Account is charged for renewal within 24 hours before the end of that period. Subscriptions can be managed or cancelled in Apple Account subscription settings. Deleting WakeProof does not cancel an active subscription.
+Payment is charged to the user's account with the applicable store when the purchase is confirmed. Monthly and annual subscriptions automatically renew unless cancelled before the end of the current billing period under the store's rules. Subscriptions can be managed or cancelled in Apple Account or Google Play subscription settings. Deleting WakeProof does not cancel an active subscription.
 
-Apple handles billing, cancellation, and refund requests under App Store rules. The app includes Restore Purchases for eligible access bought with the same Apple Account. Lifetime access does not renew and remains subject to the continued availability and compatibility of WakeProof.
+Apple or Google handles billing, cancellation, and refund requests under the applicable store rules. The app includes Restore Purchases for eligible access bought with the same store account. Lifetime access does not renew and remains subject to the continued availability and compatibility of WakeProof.
 
-Apple's [Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies. If these terms conflict with mandatory App Store terms, the mandatory App Store terms control.
+Apple's [Standard Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies to the iOS version. Google Play's applicable user and payment terms apply to the Android version. If these terms conflict with mandatory store terms, the mandatory store terms control.
 
 ## Intellectual property
 

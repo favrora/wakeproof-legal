@@ -1,6 +1,6 @@
 # WakeProof Privacy Policy
 
-Effective date: July 12, 2026
+Effective date: July 14, 2026
 
 WakeProof ("WakeProof", "we", "us") is provided by **David Voskanyan**. Questions and privacy requests can be sent to **david.voskanyan1213@gmail.com**.
 
@@ -8,28 +8,29 @@ WakeProof ("WakeProof", "we", "us") is provided by **David Voskanyan**. Question
 
 WakeProof stores alarm times, labels, repeat settings, wake-check settings, alarm history, app preferences, and cryptographic hashes of registered QR or barcode values locally on the device. The app does not store camera photos or the raw content of registered codes. Camera frames are processed on the device for scanning.
 
-WakeProof may offer WakeProof Pro through Apple App Store in-app purchases. Purchases are processed by Apple and entitlement status is managed through RevenueCat. RevenueCat may receive purchase identifiers, receipt and transaction data, entitlement status, an anonymous app user identifier, and device or app metadata needed for purchase validation and diagnostics. WakeProof does not send alarm labels, scan-code contents, camera images, or local wake-up history to RevenueCat.
+WakeProof may offer WakeProof Pro through Apple App Store or Google Play in-app purchases. Purchases are processed by the applicable store and entitlement status is managed through RevenueCat. RevenueCat may receive purchase identifiers, receipt or transaction data, entitlement status, an anonymous app user identifier, and device or app metadata needed for purchase validation and diagnostics. WakeProof does not send alarm labels, scan-code contents, camera images, or local wake-up history to RevenueCat.
 
 ## Why we process data
 
-Local app data is processed to schedule alarms, verify scan missions, run wake-checks, show statistics, and restore preferences. Camera access is requested only when a person opens the scanner. Notification or AlarmKit permission is requested to deliver alarms and wake-check reminders. Purchase data is processed to complete, validate, restore, and support WakeProof Pro access.
+Local app data is processed to schedule alarms, verify scan missions, run wake-checks, show statistics, and restore preferences. Camera access is requested only when a person opens the scanner. Notification, AlarmKit, exact-alarm, full-screen alert, vibration, wake-lock, and foreground-service capabilities are requested only as needed to deliver alarms and wake-check reminders on the applicable platform. Purchase data is processed to complete, validate, restore, and support WakeProof Pro access.
 
 ## Sharing and sale
 
-WakeProof does not sell personal information. The app does not enable advertising or require a WakeProof account. Purchase and entitlement data may be shared with Apple and RevenueCat only to provide, validate, restore, and support App Store purchases. Information may be disclosed when required by law.
+WakeProof does not sell personal information. The app does not enable advertising or require a WakeProof account. Purchase and entitlement data may be shared with Apple or Google and RevenueCat only to provide, validate, restore, and support in-app purchases. Information may be disclosed when required by law.
 
-Apple and RevenueCat process information under their own privacy terms:
+Apple, Google, and RevenueCat process information under their own privacy terms:
 
 - [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
+- [Google Privacy Policy](https://policies.google.com/privacy)
 - [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/)
 
 ## Retention and deletion
 
-Alarm data remains on the device until it is deleted in the app, all local data is reset from Settings, or the app is uninstalled. Purchase records may be retained by Apple and RevenueCat as required to provide purchase history, restore access, prevent fraud, meet legal obligations, and resolve support requests.
+Alarm data remains on the device until it is deleted in the app, all local data is reset from Settings, or the app is uninstalled. Purchase records may be retained by Apple or Google and RevenueCat as required to provide purchase history, restore access, prevent fraud, meet legal obligations, and resolve support requests.
 
 ## Security
 
-WakeProof uses device storage controls and stores a device-only mission hashing secret in iOS Keychain-backed storage. No security measure is absolute; keep the device and operating system updated.
+WakeProof uses device storage controls and stores a device-only mission hashing secret in Keychain- or Android Keystore-backed secure storage. Store and RevenueCat communications use encrypted network connections. No security measure is absolute; keep the device and operating system updated.
 
 ## Children
 
