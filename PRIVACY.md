@@ -2,7 +2,7 @@
 
 Effective date: November 6, 2026
 
-WakeProof ("WakeProof", "we", "us") is provided by **David Voskanyan**. Questions and privacy requests can be sent to **david.voskanyan1213@gmail.com**. This policy describes WakeProof 1.0.8.
+WakeProof ("WakeProof", "we", "us") is provided by **David Voskanyan**. Send questions and privacy requests to **Team Beauty AI App** at [team@beautyai.app](mailto:team@beautyai.app). This policy describes WakeProof 1.0.8.
 
 ## Local alarm and code data
 
@@ -61,7 +61,7 @@ WakeProof uses operating-system storage controls and a device-only mission hashi
 
 ## Children and privacy requests
 
-WakeProof is not directed to children under 13. If you believe a child has provided information to us, contact **david.voskanyan1213@gmail.com**.
+WakeProof is not directed to children under 13. If you believe a child has provided information to us, contact **Team Beauty AI App** at [team@beautyai.app](mailto:team@beautyai.app).
 
 Depending on your location, you may have rights to access, correct, delete, restrict, or object to processing, or to complain to a regulator. Contact the address above for questions or to exercise applicable rights.
 

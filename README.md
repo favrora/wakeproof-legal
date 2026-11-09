@@ -20,7 +20,7 @@ wake checks, and local-first history.
 
 ## Contact
 
-Privacy, support, and data deletion requests can be sent to
-[david.voskanyan1213@gmail.com](mailto:david.voskanyan1213@gmail.com).
+Send privacy, support, and data deletion requests to **Team Beauty AI App** at
+[team@beautyai.app](mailto:team@beautyai.app).
 
 The effective date of each policy is recorded inside the corresponding document.

@@ -2,7 +2,7 @@
 
 Effective date: July 14, 2026
 
-These terms are an agreement between the user and **David Voskanyan** ("WakeProof", "we", "us"). Contact: **david.voskanyan1213@gmail.com**.
+These terms are an agreement between the user and **David Voskanyan** ("WakeProof", "we", "us"). Contact **Team Beauty AI App** at [team@beautyai.app](mailto:team@beautyai.app).
 
 ## The service
 
